@@ -1,5 +1,5 @@
 # hangman_python_collab
-A simple implementatioon of the popular game 'hangman' in Python. Leans heavily on the list feature of python and uses a small recursiv function
+A simple implementation of the popular game 'hangman' in Python. Leans heavily on the list feature of python and uses a small recursive function
 
 # Project Reflection Template
 ## Summary
